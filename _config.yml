@@ -1,1 +1,8 @@
 theme: minima
+
+# Site settings
+title: My GitHub Pages Site
+description: A simple blog built with GitHub Pages and the minima theme.
+author: Gaoshan
+email: gaoshanpan26@gmail.conm
+github_username: Guanssie
