@@ -1,6 +1,15 @@
-version: 2
-updates:
-  - package-ecosystem: "github-actions"
-    directory: "/"
-    schedule:
-      interval: "monthly"
+# version: 2
+# updates:
+#   - package-ecosystem: "github-actions"
+#     directory: "/"
+#     schedule:
+#       interval: "monthly"
+
+theme: minima
+
+# Site settings
+title: My GitHub Pages Site
+description: A simple blog built with GitHub Pages and the minima theme.
+author: Your Name
+email: your-email@example.com
+github_username: your-github-username
